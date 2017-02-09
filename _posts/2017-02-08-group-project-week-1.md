@@ -10,5 +10,7 @@ should get us off to a good start, we may uncover some weaknesses during the imp
 
 # Weekly Diary
 Time Spent: 
+
 - 1 hour task: Share initial thoughts with Alex via Google Docs and iron out any problems.
+
 - 30 minute task: Throw together a simple diagram representing our final thoughts and ideas.          
