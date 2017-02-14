@@ -21,6 +21,14 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  qinusty
+team: 
+  - Kamyab: http://users.aber.ac.uk/kas72/wordpress
+  - Dylan: https://g401blog.wordpress.com/
+  - Filip: https://fik1project.wordpress.com/
+  - Dawid: http://users.aber.ac.uk/dab72/wordpress
+  - Alex: http://alt28-cs22120.tumblr.com
+  - Luke: https://lukerevill.wordpress.com/
+  - Elliot: https://cs22120els41.wordpress.com/
 # Build settings
 markdown: kramdown
 theme: minima
