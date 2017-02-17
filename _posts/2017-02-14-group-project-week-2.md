@@ -20,8 +20,9 @@ for next week.
 
 # Time Sheet
 
-Implementation: 6 Hours
-Meetings and Lectures: 3 Hours
-Setting up basic SVN file structure: 1 Hour
-Reading Java QA docs: 1 Hour
-Diagram Creation: 2 Hours
+
+- Implementation: 6 Hours
+- Meetings and Lectures: 3 Hours
+- Setting up basic SVN file structure: 1 Hour
+- Reading Java QA docs: 1 Hour
+- Diagram Creation: 2 Hours
