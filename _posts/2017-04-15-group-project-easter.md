@@ -1,0 +1,53 @@
+---
+layout: post
+title: Group Project EASTER
+---
+
+Throughout easter I took a step down and tried to reduce my weekly hours as I
+was already approaching 100 hours which I should be at for the start of work
+week.
+
+To reach the 100 hour goal I intended to work on the trading logic once Kamyab
+had completed the UI window which was completed a week into the Easter break,
+allowing me to complete the logic and finalise the FR's before starting work
+week. 
+
+Going into work week I have rearranged our Trello to allow us to have a more
+focused work week with clear tasks to complete and distribute between the team.
+
+I also discussed with the team what I hoped to get done over work week in our
+group chat and brought up what people could be doing over easter to bring their
+hours up and get involved with the programming.
+
+# Work Week Policies
+As a group we decided that it is vital that we have a policy in place for
+ensuring attendance and punctuality of group members during our brief 5 day work
+week to finalise the project. We opted to decide on a Yellow card system which
+has been formalised in the minutes by our group leader Alex as 
+
+```
+Work Week -> 9:00am to 5:00pm every week day and do not turn up late. 
+              Miss a day without VALID reason = yellow card. 
+              30+ minutes late = 1 strike, if you get a second strike = yellow card. 
+              3+ hours late possible yellow card dependant on reason
+```
+
+I believe this is a fair system and will ensure that people are aware of the
+consequences which will follow an uninformed missed day.
+
+This being said, Dawid has informed the group of a Hospital appointment on the
+Friday of work week and provided sufficient evidence of such. So we will be
+ensuring Dawid completes the tasks assigned to him by Thursday and try and get
+most things finalised before then anyway.
+
+My aim for work week is to have the more confident programmers spend 1-2 hours a
+day assisting the less confident group members to complete tasks and get
+involved, this means that we will be working at a slower pace but hopefully the
+less confident group members will be able to work more confidently afterwards. 
+
+# Hours Spent
+
+
+- 2 Hours: Trade Window logic and basic testing.
+- 1 Hour: Browsing the project and FR's for tasks to put onto Trello.
+- 30 Minutes: Updating Trello and archiving completed tasks.
