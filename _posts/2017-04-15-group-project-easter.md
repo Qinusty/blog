@@ -19,11 +19,16 @@ I also discussed with the team what I hoped to get done over work week in our
 group chat and brought up what people could be doing over easter to bring their
 hours up and get involved with the programming.
 
-Further into easter, I decided to fix a bug which had been outstanding for a few weeks.
+Further into the easter break, I decided to fix a bug which had been outstanding for a few weeks.
 This bug was a problem with the getValidMoves function and occurred when you were trying to move next to Treasure
 Island and another ship was there. According to FR11, you are not allowed to move onto another ship while they are
 adjacent to Treasure Island, this was not the case as you could freely move onto them. The fix was simple and just 
 required adding another check before adding the tile to the list of valid moves which would be returned.
+
+I also decided to add a chance card, I chose Chance Card #1 as this looked to require some interesting decision making as to
+calculate a movement vector away from Treasure Island. I chose to narrow down a list of adjacent tiles by first assuming that if
+the list of adjacent tiles has a size of 1, then you are on the corner of the island. After this assumption I could get a movement vector
+by grabbing a tile from the list and calculating a vector difference between the x and y on both the ship and tile.
 
 # Work Week Policies
 As a group we decided that it is vital that we have a policy in place for
