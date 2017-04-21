@@ -19,6 +19,12 @@ I also discussed with the team what I hoped to get done over work week in our
 group chat and brought up what people could be doing over easter to bring their
 hours up and get involved with the programming.
 
+Further into easter, I decided to fix a bug which had been outstanding for a few weeks.
+This bug was a problem with the getValidMoves function and occurred when you were trying to move next to Treasure
+Island and another ship was there. According to FR11, you are not allowed to move onto another ship while they are
+adjacent to Treasure Island, this was not the case as you could freely move onto them. The fix was simple and just 
+required adding another check before adding the tile to the list of valid moves which would be returned.
+
 # Work Week Policies
 As a group we decided that it is vital that we have a policy in place for
 ensuring attendance and punctuality of group members during our brief 5 day work
