@@ -88,6 +88,16 @@ for i := 0; i < len(xs); i++ {
 
 xs := []int{1,2,3,4,5}
 xs = xs[1:3] // {2, 3}
+
+// Importing
+
+import "fmt"
+
+// preferred way :)
+import (
+    "fmt" 
+    "strings"
+)
 ```
 
 # Functions
@@ -229,7 +239,7 @@ This can be useful for cleaning up after a function exits.
 
 # Pointers
 
-If you're familiar with C, this is basically the same except Go has no pointer arithmetic. If not check out this (page)[http://www.c4learn.com/c-programming/pointer-overview/] for a quick guide to pointers (it's for C but it's the concept of pointers that matter).
+If you're familiar with C, this is basically the same except Go has no pointer arithmetic. If not check out this [page](http://www.c4learn.com/c-programming/pointer-overview/) for a quick guide to pointers (it's for C but it's the concept of pointers that matter).
 
 ```go
 i := 5
@@ -254,5 +264,7 @@ foo.Sum() // 3
 
 So far I quite like Go, I haven't gotten to the more advanced parts of Go yet such as Channels but I'm liking it. The language as a whole feels thought out and looks quite appealing to me. As for community and tools, Go is already making huge strides in those areas as the Go toolkit provides an insane amount of utility, with `go get` available for downloading libraries from git repositories into a configured workspace.
 
-The small feature of 
+The language seems to be in a nice place, I plan to dive deeper into what Go can do and perhaps do some personal projects in Go to get a feel for how it works. If you're looking to learn Go or even just try out some of the things I've mentioned here, you can check out the [Go Playground](https://play.golang.org/) or [GoTour](https://tour.golang.org/)
+
+
 
