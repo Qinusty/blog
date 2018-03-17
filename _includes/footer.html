@@ -18,16 +18,6 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
-        {% if site.team %}
-          Team Blogs:
-          <ul>
-            {% for person_hash in site.team %}
-              {% for person in person_hash %}
-                <li><a href="{{ person[1] }}">{{ person[0] }}</a></li>
-              {% endfor %}
-            {% endfor %}
-          </ul>
-        {% endif %}
       </div>
 
       <div class="footer-col footer-col-2">
